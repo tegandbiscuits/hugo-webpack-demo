@@ -1,0 +1,13 @@
+body {
+  background: mistyrose
+}
+
+/*
+  At this time, adding `position: sticky;` to an element is a way to test
+  that Autoprefixer is set up correctly.
+  When you inspect the element, you should also see `position: -webkit-sticky;`.
+*/
+
+/* h1 {
+  position: sticky;
+} */
